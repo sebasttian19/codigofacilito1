@@ -1,0 +1,12 @@
+C:\Laboratorio\DevOps\GitHub\codigofacilito1\codigofacilito1\CodigoFacilito\bin\Debug\net9.0\CodigoFacilito.deps.json
+C:\Laboratorio\DevOps\GitHub\codigofacilito1\codigofacilito1\CodigoFacilito\bin\Debug\net9.0\CodigoFacilito.dll
+C:\Laboratorio\DevOps\GitHub\codigofacilito1\codigofacilito1\CodigoFacilito\bin\Debug\net9.0\CodigoFacilito.pdb
+C:\Laboratorio\DevOps\GitHub\codigofacilito1\codigofacilito1\CodigoFacilito\obj\Debug\net9.0\CodigoFacilito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Laboratorio\DevOps\GitHub\codigofacilito1\codigofacilito1\CodigoFacilito\obj\Debug\net9.0\CodigoFacilito.AssemblyInfoInputs.cache
+C:\Laboratorio\DevOps\GitHub\codigofacilito1\codigofacilito1\CodigoFacilito\obj\Debug\net9.0\CodigoFacilito.AssemblyInfo.cs
+C:\Laboratorio\DevOps\GitHub\codigofacilito1\codigofacilito1\CodigoFacilito\obj\Debug\net9.0\CodigoFacilito.csproj.CoreCompileInputs.cache
+C:\Laboratorio\DevOps\GitHub\codigofacilito1\codigofacilito1\CodigoFacilito\obj\Debug\net9.0\CodigoFacilito.sourcelink.json
+C:\Laboratorio\DevOps\GitHub\codigofacilito1\codigofacilito1\CodigoFacilito\obj\Debug\net9.0\CodigoFacilito.dll
+C:\Laboratorio\DevOps\GitHub\codigofacilito1\codigofacilito1\CodigoFacilito\obj\Debug\net9.0\refint\CodigoFacilito.dll
+C:\Laboratorio\DevOps\GitHub\codigofacilito1\codigofacilito1\CodigoFacilito\obj\Debug\net9.0\CodigoFacilito.pdb
+C:\Laboratorio\DevOps\GitHub\codigofacilito1\codigofacilito1\CodigoFacilito\obj\Debug\net9.0\ref\CodigoFacilito.dll

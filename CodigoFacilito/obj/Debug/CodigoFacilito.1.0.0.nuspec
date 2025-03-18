@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CodigoFacilito</id>
+    <version>1.0.0</version>
+    <authors>CodigoFacilito</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="b5d27e1a0c7ca5a4b6b3f20300b99b88c23026f9" />
+    <dependencies>
+      <group targetFramework="net9.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Laboratorio\DevOps\GitHub\codigofacilito1\codigofacilito1\CodigoFacilito\bin\Debug\net9.0\CodigoFacilito.dll" target="lib\net9.0\CodigoFacilito.dll" />
+  </files>
+</package>
